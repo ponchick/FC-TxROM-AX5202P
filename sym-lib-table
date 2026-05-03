@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Cart")(type "KiCad")(uri "${KIPRJMOD}/Cart.kicad_sym")(options "")(descr ""))
+)
