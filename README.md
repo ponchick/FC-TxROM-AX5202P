@@ -16,7 +16,7 @@ The board supports PRG RAM for save data. A CR2032 cell retains data when the co
 In no-battery mode, the following parts may be omitted:
 
 - Battery BT1
-- Resistors R1, R2, R4
+- Resistors R1, R2, R3, R4
 - Capacitors C4, C8
 - Diodes D1, D2
 - Transistor Q1
